@@ -107,7 +107,7 @@ def get_video_frame():
 smtp_server = 'smtp.office365.com'
 smtp_port = 587
 email_user = 'ProjectRobotics@hotmail.com'
-email_password = 'q1w2e3r4t5'
+email_password = 'xxxxxxxxxxxxxxx'
 email_to = 'adn20200976@std.psut.edu.jo'
 
 def send_alert_email(image):
